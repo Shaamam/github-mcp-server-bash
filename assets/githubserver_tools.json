@@ -1,0 +1,31 @@
+{
+  "tools": [
+    {
+      "name": "get_repo_count",
+      "description": "Get the number of public repositories for the GitHub user defined in the environment variable",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    {
+      "name": "get_commit_count",
+      "description": "Get the total number of commits across all public repositories for the GitHub user defined in the environment variable",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    },
+    {
+      "name": "get_profile_info",
+      "description": "Get profile information for the GitHub user defined in the environment variable",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    }
+  ]
+}
