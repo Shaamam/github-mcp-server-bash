@@ -1,7 +1,7 @@
 # github-mcp-server-bash
 Github MCP Server for Bash
 
-This project provides a **GitHub integration server** compatible with the **MCP (Modular Command Protocol)** specification. It allows clients to retrieve GitHub user statistics and profile information via standard tools.
+This project provides a **GitHub integration server** compatible with the **MCP (Model Context Protocol)** specification. It allows clients to retrieve GitHub user statistics and profile information via standard tools.
 
 ---
 
